@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@800&display=swap');
+
+html, body{
+    padding: 0;
+    min-height: 100vh;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    overflow-x: hidden;
+}
+
+.banner2{
+    transform: translateY(-35.75rem);
+}
+
+.nav-item{
+    font-size: 1rem;
+}
+
+.solutions h4{
+    font-size: 1.8rem;
+    color: rgba(2, 100, 160, .9);
+}
+
+.btn-md{
+    margin-left: 9rem;
+   
+}
+
+.banner3, .app-description {
+    margin-left: 20px;
+    transform: translateY(-32.8rem);
+
+}
+
+.fruitsandveggies{
+    transform: translateY(-33rem);
+    font-size: 3rem;
+    font-weight: 800;
+}
+
+.app-launch{
+    transform: translateY(-34rem);
+    font-size: 2.5rem;
+    font-weight: 700;
+
+}
+
+.app-description span{
+    color: rgba(92, 184, 92);
+    font-size: 2.5rem;
+    /* margin-left: 30rem; */
+}
+
+.app-description p{
+    line-height: 1.8rem;
+}
+
+.system-features h2{
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.system-features{
+    transform: translateY(-25rem);
+}
+
+.banner3{
+    margin-left: -99px;
+    margin-top: -47px;
+}
+
+/* .customer-app{
+    font-size: 1rem;
+    width: 6;
+    border: 1px solid black;
+    /* border-radius: 100rem; */
+/* } */ *
+
+/* .app.nav-pills.nav-link.active {
+    color: #fff;
+    background-color: #333333;
+}
+
+.app.nav-pills.nav-link {
+    border-radius: 58px;
+}
+
+.app.nav-link {
+    display: block;
+    padding: 15px 30px;
+}
+
+.app .nav-pills .nav-link {
+    border-radius: 48px;
+    margin-left: 12px;
+    background: #fff;
+	color: #4A4A4A;
+} */
+
+.icon-box{
+    margin-top: 30px;
+}
+
+.cours-search-text{
+    font-weight: 700;
+}
+
+.tab-description{
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.overlay{
+    transform: translateY(-250px);
+    opacity: .95;
+}
+
+.view-demo{
+    margin-bottom: 4rem;
+    font-size: 3rem;
+    font-weight: 700;
+    
+}
+
+.title-head h2{
+    font-size: 2.8rem;
+    font-weight: 700;
+}
+
+.title{
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.custom {
+    font-size: .9rem;
+    font-weight: 500;
+}
+
+.hyperlink-removal {
+    text-decoration: none !important;
+    font-size: 1.2rem;
+}
+
+.tech-used{
+    font-size: 2rem;
+}

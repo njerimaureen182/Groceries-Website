@@ -1,0 +1,46 @@
+.app .video-bx img {max-height: none;}
+.app .cours-search-bx {border: none; background: #fff;}
+.app .cours-search-bx p{min-height: 50px;}
+.app .cours-search-bx p span{color: #4A4A4A;font-size: 16px;}
+.app .card-header {background: none;border: none;}
+.app .card hr{width: 80%;margin: 0 auto;}
+.app .business1 p.title{line-height: 20px;font-size: 16px;margin-bottom: 0;}
+.app .industries img{height: 40px;}
+.app .business1 p{font-size: 16px;}
+.app .why-gts .cours-search-bx {padding: 10px;background: #fff;text-align: left;}
+.app .why-gts .cours-search-bx p{font-size: 16px;}
+.app .contact-bx .input-group label {color: #000; font-size: 16px;}
+.app .courses-search-bx .focused .input-group label,.app .contact-bx .focused .input-group label {top: -20px;}
+.app .contact-bx .input-group .form-control {border-bottom: 1px solid #000; font-size: 14px;}
+.app .nav-pills .app .nav-link.active, .app .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #333333;
+}
+.app .heading-bx.style1.text-white .title-head, .app .display-4 {
+    font-weight: normal;}
+.app .online-cours h2 {
+    font-weight: normal;color: white;text-align: center;margin-left:50px;}
+.app .heading-bx h2{font-size: 16px;line-height: 1.5;font-family: GoogleSans-Regular;font-weight: normal;}
+.app  .title-head {font-size: 48px;line-height: 50px;}
+.app .heading-bx.style1 .title1 {font-size: 40px;
+    line-height: 50px;
+    font-family: GoogleSans-Medium;
+    font-weight: 400;}
+.app .card-header h4{font-size: 40px;}
+.app .custom-css {
+    background: url('../../assets/images/app/food/bg2.png') !important;
+    background-position: center top !important;
+    background-repeat: no-repeat !important;
+}
+.app .custom-food .custom {background: #fff;padding: 20px;border-radius: 8px;border-right: 5px solid #FFF8F8;}
+.app .faq-bx .acod-title a {font-size: 18px;color: #4A4A4A;}
+.app .faq-bx .panel {
+    padding: 20px 0px 20px 20px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    box-shadow: 0px 10px 25px #0000000D;
+}
+.app .top-section {background-image: url(../../assets/images/app/food/Banner.png);
+    background-position: top right;}
+.app .ovpr-light:after,.app  .ovpr-middle:after,.app  .ovpr-dark:after,.app  .ovpr:after {opacity: 0.9; background: #000;}
+.app .feature-section {background-color:#F9FAFB !important;background: url("../../assets/images/app/food/feature-bg.png");background-position: left top;background-repeat: no-repeat;background-size: cover;}
